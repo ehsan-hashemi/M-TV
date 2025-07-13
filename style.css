@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Vazir";
+    src: url(/Vazir-Regular.ttf);
+}
+
+body {
+    font-family: "vazir";
+    background-color: white;
+}
+
+.h1c {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+}
+
+.livep, .jp, .arp {
+    text-align: right;
+    margin-right: 10px;
+}
+
