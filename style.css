@@ -17,7 +17,37 @@ img {
 }
 
 .livep, .jp, .arp {
-    text-align: right;
     margin-right: 10px;
 }
 
+table{
+   border: 1px solid red;
+   border-collapse: collapse;
+   text-align: center;
+}
+
+.tr {
+    text-align: center;
+}
+
+table , th , td{
+   border: 1px solid red;
+   text-align: center;
+}
+
+table, td, th {
+border: 3px solid green;
+text-align: center;
+}
+
+table {
+border-collapse: collapse;
+width: 40%;
+font-family: "Vazir";
+text-align: center;
+}
+
+.th {
+height: 70px;
+text-align: center;
+}
